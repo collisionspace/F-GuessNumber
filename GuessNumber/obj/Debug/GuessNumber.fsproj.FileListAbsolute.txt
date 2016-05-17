@@ -1,0 +1,8 @@
+c:\users\slonej3\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+c:\users\slonej3\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.XML
+c:\users\slonej3\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+c:\users\slonej3\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+c:\users\slonej3\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\bin\Debug\FSharp.Core.dll
+c:\users\slonej3\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\bin\Debug\FSharp.Core.xml
+c:\users\slonej3\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+c:\users\slonej3\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
